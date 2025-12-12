@@ -10,8 +10,8 @@ CREATE TABLE "ELECAPPR" (
     "PAPER" VARCHAR2(60),
     "FILENAME" VARCHAR2(200 BYTE), 
     CONSTRAINT "ELECAPPR_PK" PRIMARY KEY ("IDX"),
-    CONSTRAINT "FK_CNUM_MAIN_TO_ELEC" FOREIGN KEY ("CNUM")
-    REFERENCES "MAIN" ("CNUM")
+    CONSTRAINT "FK_CNUM_member_TO_ELEC" FOREIGN KEY ("CNUM")
+    REFERENCES member ("CNUM")
 );
 
 DROP TABLE elecappr;
@@ -33,7 +33,7 @@ Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPE
 Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,116,'남수연','사내 직원 건강검진 공문','사내 직원 건강검진 공문',to_timestamp('23/07/09 16:44:31.000000000','RR/MM/DD HH24:MI:SSXFF'),'승인',null,'공문');
 Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,117,'장현규','장현규 사원 사직서','안녕하세요.코딩 5팀 장현규입니다.
 동거동락했던 우리 팀원을 뒤로 두고 퇴사하는 것이 마음에 걸립니다.
-''희희낙락'' 그 자체였던 생활이었습니다.
+"희희낙락" 그 자체였던 생활이었습니다.
 여러분의 앞으로의 도전에도 행운이 깃드시길 바랍니다.
 
 감사합니다

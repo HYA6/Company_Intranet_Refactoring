@@ -9,16 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4212cd32-ff9d-4fcf-943e-ab5d8ff1ef21" name="변경" comment="한글 깨짐 현상 해결 및 데이터베이스 이름 변경">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/member.sql" afterDir="false" />
+    <list default="true" id="4212cd32-ff9d-4fcf-943e-ab5d8ff1ef21" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/BOARD.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BOARD.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/servlet-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/servlet-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Meetingroom.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Meetingroom.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/PK_FK_setting.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/PK_FK_setting.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/atten_date.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/atten_date.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/elecappr.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/elecappr.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/fboard.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/fboard.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/main.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/meal.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/meal.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -65,29 +64,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Tomcat 서버.Tomcat 8.5.96.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15722656&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.23818707&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat 서버.Tomcat 8.5.96.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15722656",
+    "project.structure.side.proportion": "0.23818707",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationStatuses">
       <map>
@@ -220,7 +219,7 @@
       <workItem from="1765435867575" duration="161000" />
       <workItem from="1765436156248" duration="125000" />
       <workItem from="1765501303896" duration="1323000" />
-      <workItem from="1765516075759" duration="278000" />
+      <workItem from="1765516075759" duration="2120000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -238,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765503651439</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="한글 깨짐 현상 해결 및 데이터베이스 이름 변경">
+      <option name="closed" value="true" />
+      <created>1765516474980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765516474980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,5 +285,9 @@
     <MESSAGE value="update ?" />
     <MESSAGE value="한글 깨짐 현상 해결 및 데이터베이스 이름 변경" />
     <option name="LAST_COMMIT_MESSAGE" value="한글 깨짐 현상 해결 및 데이터베이스 이름 변경" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
