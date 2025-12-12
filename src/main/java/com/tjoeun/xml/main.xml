@@ -6,4 +6,4 @@
 		update main set email = #{email}, phone = #{phone}, imagefile = #{imagefile} where cnum = #{cnum}
 	</update>
 	
-</mapper>                                                                             
+</mapper>

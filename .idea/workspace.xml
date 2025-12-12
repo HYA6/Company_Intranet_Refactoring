@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Tjoeun_Project:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4212cd32-ff9d-4fcf-943e-ab5d8ff1ef21" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/ApprovalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/ApprovalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/BoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/CeoCommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/CeoCommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/CeoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/CeoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/FreeboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/FreeboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/MealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/MealController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/MeetingRoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/MeetingRoomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/MyPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/MyPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/SawonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/SawonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/Tjoeun_Project/ScheduleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/controller/ScheduleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tjoeun/xml/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tjoeun/xml/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BOARD.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BOARD.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/servlet-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/myPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/myPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/ApprovalController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/BoardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/CeoCommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/CeoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/FreeboardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/MainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/MealController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/MeetingRoomController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/MyPageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/SawonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/Tjoeun_Project/ScheduleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/ApprovalDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/ApprovalDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/AttendanceDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/AttendanceDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/BoardDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/BoardDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/CeoCommentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/CeoCommentDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/CeoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/CeoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/ElecapprsawonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/ElecapprsawonDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/FreeBoardDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/FreeBoardDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/LoginDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/LoginDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/MealDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/MealDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/MeetingRoomDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/MeetingRoomDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/MyPageDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/MyPageDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/ScheduleDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/dao/ScheduleDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/AttendanceVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/AttendanceVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/BoardList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/BoardList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/BoardVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/BoardVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/Board_MealList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/Board_MealList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/Board_MealVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/Board_MealVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/CalendarVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/CalendarVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/CeoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/CeoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/CeoVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/CeoVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/ElecapprsawonList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/ElecapprsawonList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/ElecapprsawonVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/ElecapprsawonVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/FreeBoardList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/FreeBoardList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/FreeBoardVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/FreeBoardVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/MainVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/MainVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/MeetingRoomList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/MeetingRoomList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/MeetingVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/MeetingVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/ScheduleDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/ScheduleDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/SearchVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tjoeun/vo/SearchVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/ScheduleDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/approval.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/attendance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/board.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/ceo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/ceoComment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/elecappr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/freeboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/meal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tjoeun/xml/meetingroom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.tjoeun/Tjoeun_Project/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.tjoeun/Tjoeun_Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/log4j.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="web" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HYA6&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HYA6/Company_Intranet_Refactoring.git&quot;,
+    &quot;accountId&quot;: &quot;73445a56-d860-4b78-8551-4c7b4322397b&quot;
+  }
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36gcpqUNmCByliIs4cftcXK77sG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Tomcat 서버.Tomcat 8.5.96.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15722656",
+    "project.structure.side.proportion": "0.23818707",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 8.5.96" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Company_Intranet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Company_Intranet" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.96" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.96" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Tjoeun_Project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Tjoeun_Project_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ebadb09b-b92c-4184-93b8-8ac5f0d962d0" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60485" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Tjoeun_Project:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4212cd32-ff9d-4fcf-943e-ab5d8ff1ef21" name="변경" comment="" />
+      <created>1765431841050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765431841050</updated>
+      <workItem from="1765431843367" duration="1955000" />
+      <workItem from="1765435867575" duration="161000" />
+      <workItem from="1765436156248" duration="125000" />
+      <workItem from="1765501303896" duration="1049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.tjoeun.Tjoeun_Project">
+	<logger name="com.tjoeun.controller">
 		<level value="info"/>
 	</logger>
 	
