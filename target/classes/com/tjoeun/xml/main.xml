@@ -3,7 +3,7 @@
 <mapper namespace="com.tjoeun.dao.MyPageDAO">
 	
 	<update id="updateinfo" parameterType="mo">
-		update main set email = #{email}, phone = #{phone}, imagefile = #{imagefile} where cnum = #{cnum}
+		update member set email = #{email}, phone = #{phone}, imagefile = #{imagefile} where cnum = #{cnum}
 	</update>
 	
 </mapper>

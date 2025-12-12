@@ -3,7 +3,7 @@
 <mapper namespace="com.tjoeun.dao.LoginDAO">
    
    <select id="selectbyCnum" parameterType="int" resultType="mo">
-      select * from main where cnum  = #{cnum}
+      select * from member where cnum  = #{cnum}
    </select>
    
 </mapper>

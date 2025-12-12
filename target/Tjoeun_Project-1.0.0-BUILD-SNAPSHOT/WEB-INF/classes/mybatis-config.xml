@@ -12,4 +12,8 @@
 		<typeAlias type="com.tjoeun.vo.FreeBoardVO" alias="fo"/>
 		<typeAlias type="com.tjoeun.vo.ScheduleDto" alias="so"/>
 	</typeAliases>
+    <mappers>
+        <package name="com.tjoeun.dao"/>
+        <package name="com.tjoeun.xml"/>
+    </mappers>
 </configuration>

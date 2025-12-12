@@ -11,5 +11,10 @@
 		<typeAlias type="com.tjoeun.vo.Board_MealVO" alias="bmo"/>
 		<typeAlias type="com.tjoeun.vo.FreeBoardVO" alias="fo"/>
 		<typeAlias type="com.tjoeun.vo.ScheduleDto" alias="so"/>
+
 	</typeAliases>
+    <mappers>
+        <package name="com.tjoeun.dao"/>
+    </mappers>
+
 </configuration>
