@@ -24,19 +24,19 @@ SELECT * FROM elecappr ORDER BY idx DESC;
 SELECT COUNT(*) FROM elecappr;
 select * from elecappr where cnum = 110 order by idx desc;
 
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,110,'°­¼ÒÀº','ÅÁºñ½Ç °£½Ä ÁöÃâ°áÀÇ¼­','ÅÁºñ½Ç °£½Ä ÁöÃâ°áÀÇ¼­',to_timestamp('23/06/14 16:39:38.000000000','RR/MM/DD HH24:MI:SSXFF'),'½ÂÀÎ',null,'ÁöÃâ°áÀÇ¼­');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,111,'±èÇüÃ¶','GWD-3120 °³¼±¿¡ °üÇÑ Á¦¾È¼­','GWD-3120 °³¼±¿¡ °üÇÑ Á¦¾È¼­',to_timestamp('23/07/03 16:41:06.000000000','RR/MM/DD HH24:MI:SSXFF'),'¹Ý·Á','¾ç½Ä ºÒÃæºÐ','ÈÞ°¡±ÙÅÂ¼­');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,112,'ÀÌÇÏ¿µ','ÀÓ¿ø ½ÂÁø °ø¹®','ÀÓ¿ø ½ÂÁø °ø¹®',to_timestamp('23/07/05 16:42:10.000000000','RR/MM/DD HH24:MI:SSXFF'),'½ÂÀÎ',null,'°ø¹®');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,113,'±èÀ¯Áø','07.24~07.25 ÈÞ°¡½ÅÃ»¼­','07.24~07.25 ÈÞ°¡½ÅÃ»¼­',to_timestamp('23/07/06 16:42:52.000000000','RR/MM/DD HH24:MI:SSXFF'),'½ÂÀÎ',null,'ÈÞ°¡±ÙÅÂ¼­');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,114,'°í´ëÀÏ','ÇùÁ¶ ¿äÃ» Á¦¾È','ÇùÁ¶ ¿äÃ» Á¦¾È',to_timestamp('23/07/08 16:43:08.000000000','RR/MM/DD HH24:MI:SSXFF'),'¹Ý·Á','»çÃø¿¡¼­ ÃæºÐÈ÷ °¡´É','Á¦¾È¼­');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,115,'¹Ú»ó¾Æ','07.24~07.29 ÈÞ°¡½ÅÃ»ÇÕ´Ï´Ù.','07.24~07.29 ÈÞ°¡½ÅÃ»ÇÕ´Ï´Ù.',to_timestamp('23/07/09 16:44:08.000000000','RR/MM/DD HH24:MI:SSXFF'),'¹Ý·Á',null,'ÈÞ°¡±ÙÅÂ¼­');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,116,'³²¼ö¿¬','»ç³» Á÷¿ø °Ç°­°ËÁø °ø¹®','»ç³» Á÷¿ø °Ç°­°ËÁø °ø¹®',to_timestamp('23/07/09 16:44:31.000000000','RR/MM/DD HH24:MI:SSXFF'),'½ÂÀÎ',null,'°ø¹®');
-Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,117,'ÀåÇö±Ô','ÀåÇö±Ô »ç¿ø »çÁ÷¼­','¾È³çÇÏ¼¼¿ä.ÄÚµù 5ÆÀ ÀåÇö±ÔÀÔ´Ï´Ù.
-µ¿°Åµ¿¶ôÇß´ø ¿ì¸® ÆÀ¿øÀ» µÚ·Î µÎ°í Åð»çÇÏ´Â °ÍÀÌ ¸¶À½¿¡ °É¸³´Ï´Ù.
-''ÈñÈñ³«¶ô'' ±× ÀÚÃ¼¿´´ø »ýÈ°ÀÌ¾ú½À´Ï´Ù.
-¿©·¯ºÐÀÇ ¾ÕÀ¸·ÎÀÇ µµÀü¿¡µµ Çà¿îÀÌ ±êµå½Ã±æ ¹Ù¶ø´Ï´Ù.
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,110,'ê°•ì†Œì€','íƒ•ë¹„ì‹¤ ê°„ì‹ ì§€ì¶œê²°ì˜ì„œ','íƒ•ë¹„ì‹¤ ê°„ì‹ ì§€ì¶œê²°ì˜ì„œ',to_timestamp('23/06/14 16:39:38.000000000','RR/MM/DD HH24:MI:SSXFF'),'ìŠ¹ì¸',null,'ì§€ì¶œê²°ì˜ì„œ');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,111,'ê¹€í˜•ì² ','GWD-3120 ê°œì„ ì— ê´€í•œ ì œì•ˆì„œ','GWD-3120 ê°œì„ ì— ê´€í•œ ì œì•ˆì„œ',to_timestamp('23/07/03 16:41:06.000000000','RR/MM/DD HH24:MI:SSXFF'),'ë°˜ë ¤','ì–‘ì‹ ë¶ˆì¶©ë¶„','íœ´ê°€ê·¼íƒœì„œ');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,112,'ì´í•˜ì˜','ìž„ì› ìŠ¹ì§„ ê³µë¬¸','ìž„ì› ìŠ¹ì§„ ê³µë¬¸',to_timestamp('23/07/05 16:42:10.000000000','RR/MM/DD HH24:MI:SSXFF'),'ìŠ¹ì¸',null,'ê³µë¬¸');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,113,'ê¹€ìœ ì§„','07.24~07.25 íœ´ê°€ì‹ ì²­ì„œ','07.24~07.25 íœ´ê°€ì‹ ì²­ì„œ',to_timestamp('23/07/06 16:42:52.000000000','RR/MM/DD HH24:MI:SSXFF'),'ìŠ¹ì¸',null,'íœ´ê°€ê·¼íƒœì„œ');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,114,'ê³ ëŒ€ì¼','í˜‘ì¡° ìš”ì²­ ì œì•ˆ','í˜‘ì¡° ìš”ì²­ ì œì•ˆ',to_timestamp('23/07/08 16:43:08.000000000','RR/MM/DD HH24:MI:SSXFF'),'ë°˜ë ¤','ì‚¬ì¸¡ì—ì„œ ì¶©ë¶„ížˆ ê°€ëŠ¥','ì œì•ˆì„œ');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,115,'ë°•ìƒì•„','07.24~07.29 íœ´ê°€ì‹ ì²­í•©ë‹ˆë‹¤.','07.24~07.29 íœ´ê°€ì‹ ì²­í•©ë‹ˆë‹¤.',to_timestamp('23/07/09 16:44:08.000000000','RR/MM/DD HH24:MI:SSXFF'),'ë°˜ë ¤',null,'íœ´ê°€ê·¼íƒœì„œ');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,116,'ë‚¨ìˆ˜ì—°','ì‚¬ë‚´ ì§ì› ê±´ê°•ê²€ì§„ ê³µë¬¸','ì‚¬ë‚´ ì§ì› ê±´ê°•ê²€ì§„ ê³µë¬¸',to_timestamp('23/07/09 16:44:31.000000000','RR/MM/DD HH24:MI:SSXFF'),'ìŠ¹ì¸',null,'ê³µë¬¸');
+Insert into ELECAPPR (IDX,CNUM,NAME,SUBJECT,CONTENT,WRITEDATE,STATUS,REASON,PAPER) values (elecappr_idx_seq.nextval,117,'ìž¥í˜„ê·œ','ìž¥í˜„ê·œ ì‚¬ì› ì‚¬ì§ì„œ','ì•ˆë…•í•˜ì„¸ìš”.ì½”ë”© 5íŒ€ ìž¥í˜„ê·œìž…ë‹ˆë‹¤.
+ë™ê±°ë™ë½í–ˆë˜ ìš°ë¦¬ íŒ€ì›ì„ ë’¤ë¡œ ë‘ê³  í‡´ì‚¬í•˜ëŠ” ê²ƒì´ ë§ˆìŒì— ê±¸ë¦½ë‹ˆë‹¤.
+''í¬í¬ë‚™ë½'' ê·¸ ìžì²´ì˜€ë˜ ìƒí™œì´ì—ˆìŠµë‹ˆë‹¤.
+ì—¬ëŸ¬ë¶„ì˜ ì•žìœ¼ë¡œì˜ ë„ì „ì—ë„ í–‰ìš´ì´ ê¹ƒë“œì‹œê¸¸ ë°”ëžë‹ˆë‹¤.
 
-°¨»çÇÕ´Ï´Ù
-ÀåÇö±Ô ¹è»ó',to_timestamp('23/07/10 16:44:47.000000000','RR/MM/DD HH24:MI:SSXFF'),'¹Ý·Á',null,'»çÁ÷¼­');
+ê°ì‚¬í•©ë‹ˆë‹¤
+ìž¥í˜„ê·œ ë°°ìƒ',to_timestamp('23/07/10 16:44:47.000000000','RR/MM/DD HH24:MI:SSXFF'),'ë°˜ë ¤',null,'ì‚¬ì§ì„œ');
 
 COMMIT;

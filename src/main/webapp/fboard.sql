@@ -18,14 +18,14 @@ CREATE SEQUENCE FBOARD_idx_seq;
 SELECT * FROM FBOARD ORDER BY idx DESC;
 SELECT COUNT(*) FROM FBOARD;
 
-INSERT INTO FBOARD (idx, subject, content) 
-VALUES (FBOARD_idx_seq.nextval, '�۾�1', 'ġŲ1');
-INSERT INTO FBOARD (idx, subject, content) 
-VALUES (FBOARD_idx_seq.nextval, '�۾�2', 'ġŲ2');
-INSERT INTO FBOARD (idx, subject, content) 
-VALUES (FBOARD_idx_seq.nextval, '�۾�3', 'ġŲ3');
-INSERT INTO FBOARD (idx, subject, content) 
-VALUES (FBOARD_idx_seq.nextval, '�۾�4', 'ġŲ4');
+INSERT INTO FBOARD (idx, subject, content)
+VALUES (FBOARD_idx_seq.nextval, '작업1', '치킨1');
+INSERT INTO FBOARD (idx, subject, content)
+VALUES (FBOARD_idx_seq.nextval, '작업2', '치킨2');
+INSERT INTO FBOARD (idx, subject, content)
+VALUES (FBOARD_idx_seq.nextval, '작업3', '치킨3');
+INSERT INTO FBOARD (idx, subject, content)
+VALUES (FBOARD_idx_seq.nextval, '작업4', '치킨4');
  
 COMMIT;
    
