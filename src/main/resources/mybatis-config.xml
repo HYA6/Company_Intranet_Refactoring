@@ -14,20 +14,6 @@
 		<typeAlias type="com.tjoeun.vo.ScheduleDto" alias="so"/>
 	</typeAliases>
     <mappers>
-        <!-- DAO -->
-<!--        <mapper resource="com/tjoeun/dao/ApprovalDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/AttendanceDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/BoardDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/CeoCommentDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/CeoDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/ElecapprsawonDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/FreeBoardDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/LoginDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/MealDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/MeetingRoomDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/MyPageDAO.java"/>-->
-<!--        <mapper resource="com/tjoeun/dao/ScheduleDAO.java"/>-->
-
         <!-- XML -->
         <mapper resource="com/tjoeun/xml/approval.xml"/>
         <mapper resource="com/tjoeun/xml/attendance.xml"/>
